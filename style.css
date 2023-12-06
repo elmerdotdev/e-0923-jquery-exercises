@@ -1,0 +1,38 @@
+/* DO NOT MODIFY THIS FILE */
+
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.container div {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  height: 150px;
+  font-size: 20px;
+}
+
+.container .exercise-1 {
+  background-color: red;
+}
+
+.container .exercise-2 {
+  background-color: green;
+}
+
+.container .exercise-3 {
+  background-color: orange;
+}
+
+.container .exercise-4 {
+  background-color: yellow;
+}
+
+.container .exercise-5 {
+  background-color: blue;
+}
+
+.container .exercise-6 {
+  background-color: grey;
+}
